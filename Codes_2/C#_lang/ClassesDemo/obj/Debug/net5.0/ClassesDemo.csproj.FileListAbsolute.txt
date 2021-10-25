@@ -1,0 +1,16 @@
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\bin\Debug\net5.0\ClassesDemo.exe
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\bin\Debug\net5.0\ClassesDemo.deps.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\bin\Debug\net5.0\ClassesDemo.runtimeconfig.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\bin\Debug\net5.0\ClassesDemo.runtimeconfig.dev.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\bin\Debug\net5.0\ClassesDemo.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\bin\Debug\net5.0\ref\ClassesDemo.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\bin\Debug\net5.0\ClassesDemo.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.csproj.AssemblyReference.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.AssemblyInfoInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.AssemblyInfo.cs
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.csproj.CoreCompileInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ref\ClassesDemo.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\ClassesDemo\obj\Debug\net5.0\ClassesDemo.genruntimeconfig.cache

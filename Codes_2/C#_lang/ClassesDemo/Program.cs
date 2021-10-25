@@ -18,6 +18,16 @@ namespace ClassesDemo
             string customerZipCode2 = "00210";
             string customerCity2 = "Helsinki";
 
+            PrintCustomer(customerName2,customerAddress2,customerZipCode2,customerCity2);
+        }
+
+        private static void PrintCustomer(string customerName, string customerAddress, string customerZipCode, string customerCity)
+        {
+            //throw new NotImplementedException();
+            Console.WriteLine(customerName);
+            Console.WriteLine(customerAddress);
+            Console.WriteLine(customerZipCode);
+            Console.WriteLine(customerCity);           
         }
     }
 }
