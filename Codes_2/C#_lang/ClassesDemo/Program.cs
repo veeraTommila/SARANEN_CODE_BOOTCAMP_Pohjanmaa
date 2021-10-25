@@ -47,6 +47,22 @@ namespace ClassesDemo
             auto_2.Info();
             auto_2.Drive();
             auto_2.Brake();
+
+            TruckCar rekka1 = new();
+            rekka1.Producer = "Sisu";
+            rekka1.Model = "M-162";
+            rekka1.isAutomatic = false;
+            rekka1.MotorType = "Diesel";
+            rekka1.NumberOfCars = 2;
+            rekka1.NumberOfWheels = 8;
+            rekka1.RegNumber = "AKU-136";
+            rekka1.Speed = 80;
+            rekka1.MaxSpeed = 180;
+            rekka1.InfoMore();
+            rekka1.Drive();
+            rekka1.makeSound();
+            rekka1.makeReverse();
+            rekka1.Brake();
             //auto_2.TellGearType();
             
 

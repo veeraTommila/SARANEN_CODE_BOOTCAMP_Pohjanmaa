@@ -47,6 +47,12 @@ namespace ClassesDemo
         public void Brake(){
             Speed -= 20;
             System.Console.WriteLine("Break! Your speed is now: " + Speed + "km/h. \n");
+            /*
+            Speed -= 20;
+            if(Speed < 0){
+                Speed = 0;
+            }
+            */
         }
 
         
