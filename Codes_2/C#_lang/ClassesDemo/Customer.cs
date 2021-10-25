@@ -4,10 +4,18 @@ namespace ClassesDemo
 {
     class Customer
     {
-        public string CustomerName { get; set; }
+        //Properties = ominaisuudet (data).
+        public string Name { get; set; }
+        public string Address { get; set; }
+        public string ZipCode { get; set; }
+        public string City { get; set; }
 
-        public string CustomerAddress { get; set; }
-        public string CustomerZipCode { get; set; }
-        public string CustomerCity { get; set; }
+        //Methods = functionality. Toiminnot.
+        public void Print(){
+            Console.WriteLine("Customer's name: " + Name);
+            Console.WriteLine("Customer's address: " + Address);
+            Console.WriteLine("Customer's zipcode: " + ZipCode);
+            Console.WriteLine("Customer's city: " + City); 
+        }
     }
 }
