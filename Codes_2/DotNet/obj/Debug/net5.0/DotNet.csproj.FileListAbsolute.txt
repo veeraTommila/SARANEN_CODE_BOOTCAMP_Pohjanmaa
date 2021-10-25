@@ -1,0 +1,5 @@
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\obj\Debug\net5.0\DotNet.csproj.AssemblyReference.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\obj\Debug\net5.0\DotNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfoInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\obj\Debug\net5.0\DotNet.AssemblyInfo.cs
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\obj\Debug\net5.0\DotNet.csproj.CoreCompileInputs.cache

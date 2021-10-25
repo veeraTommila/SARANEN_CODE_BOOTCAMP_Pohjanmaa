@@ -1,0 +1,160 @@
+/* CSS Document */
+      *{
+           margin:0;
+          
+            }
+      
+      
+        a:link{color:#003DAA;}
+        
+a:visited{color:#CC0000;}
+        a:hover{color:#00CC00;}
+        body{      
+        font-family: Candara;
+        font-size: 15px;
+      }
+ /*-------------------NAVI-------------------*/     
+        .navi{
+          position: relative;
+      }
+      
+        .navi ul a:hover{
+          color:#006600;
+          background-color:#FF961E;
+        }
+      
+      .navi ul{
+          align: center;
+          background-color:rgb(204,102,0);
+          width:100%;
+          list-style-type:none;
+          overflow: auto;
+          hight: auto;
+          padding: 0;
+      }
+      
+      .navi ul a{
+        float: left;
+        display: block;
+        color: rgb(255,255,255);
+        padding: 8px 12px;
+        text-decoration:none;
+      }
+      
+      .navi ul li{
+      }
+      
+         .palkki {
+           background-color:rgb(204,102,0);
+           width:100%;
+           height:auto;
+           margin:0;
+           padding:0;
+      }
+      
+        .palkki h1 {
+          background-color:rgb(204,102,0);
+          color:rgb(255,255,255);
+          margin-left: 20px;
+          padding: 5px;
+      }
+      
+/*---------------------------------PALKIN JALKEEN---------------------------------*/      
+      .sisalto {
+      margin-left: 25px;
+      }
+      
+      #Paanimi  {
+        text-align: center;
+      }
+      
+      p {
+        overflow:auto;
+        width:96%;
+        max-width:1000px;
+        text-align:justify;
+		margin: 10px 20px 10px 20px;
+      }
+      
+p.kappale{
+	width: inherit;
+	margin: 0;
+	height: auto;
+	font-variant-ligatures: none;
+}
+      
+      h3{
+		border-left: 5px solid rgba(204,102,8,1.00);
+		background-color:rgb(204,102,0);
+        color:rgb(255,255,255);	
+    	margin: 0px;
+		font-variant-ligatures: none;
+      }
+
+      h4{
+		
+        color:rgb(0,0,0);	
+    	font-variant-ligatures: none;
+		overflow:auto;
+        width:96%;
+        max-width:1000px;
+        text-align:justify;
+		margin: 10px 20px 10px 20px;
+      }
+
+      body {
+		  
+        max-width:1000px;
+        min-width:200px;
+        margin: 0 auto;
+		align: center;
+        background-image: url('../Images/Taustasivu.png');
+     }
+
+
+
+content{
+	margin: 5px 0px 10px 0;
+	min-height: 500px;
+	background-color: rgba(219,219,219,1.00);
+	border: 20px solid rgb(219,219,219);
+	color: black;
+	display: block;
+}
+content2{
+	margin: 5px 0px 10px 0;
+	min-height: 500px;
+	background-color: rgba(219,219,219,1.00);
+	border: 20px solid rgb(219,219,219);	
+	display: block;
+}
+td{
+	vertical-align:top;
+	max-height: 200px; width: 200px;
+	}
+
+kuvatd{margin:38px;}
+
+figure{display: table; margin-left: inherit}
+
+figure > img {display: table-caption; margin-left: 20px;}
+figure2 > img {display: table-caption; margin-left: 20px;}
+figure > video {display: table-caption; margin-left: 20px;}
+
+figcaption{display: table-caption; caption-side: top; color: black; margin-left: 20px; margin-bottom: 10px;}
+
+figcaption2{display: table-caption; caption-side: top; color: black; margin-left: 20px; margin-right: -620px; margin-bottom: 10px;}
+
+table{
+	margin-left: inherit;
+}
+.kuvasivu1{
+	height: auto;
+	width: auto;
+}
+kuvateksti{font-family: Raleway;
+        font-size: 10px; color:green;
+		
+}
+
+

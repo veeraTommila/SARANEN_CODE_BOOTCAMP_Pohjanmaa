@@ -1,0 +1,16 @@
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\bin\Debug\net5.0\DotNetGame.exe
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\bin\Debug\net5.0\DotNetGame.deps.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\bin\Debug\net5.0\DotNetGame.runtimeconfig.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\bin\Debug\net5.0\DotNetGame.runtimeconfig.dev.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\bin\Debug\net5.0\DotNetGame.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\bin\Debug\net5.0\ref\DotNetGame.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\bin\Debug\net5.0\DotNetGame.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.csproj.AssemblyReference.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.AssemblyInfoInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.AssemblyInfo.cs
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.csproj.CoreCompileInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\ref\DotNetGame.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DotNetGame\obj\Debug\net5.0\DotNetGame.genruntimeconfig.cache

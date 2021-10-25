@@ -1,0 +1,16 @@
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\bin\Debug\net5.0\BasicProgramming.exe
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\bin\Debug\net5.0\BasicProgramming.deps.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\bin\Debug\net5.0\BasicProgramming.runtimeconfig.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\bin\Debug\net5.0\BasicProgramming.runtimeconfig.dev.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\bin\Debug\net5.0\BasicProgramming.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\bin\Debug\net5.0\ref\BasicProgramming.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\bin\Debug\net5.0\BasicProgramming.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.csproj.AssemblyReference.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.AssemblyInfoInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.AssemblyInfo.cs
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.csproj.CoreCompileInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\ref\BasicProgramming.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\C#_lang\C#_game\BasicProgramming\obj\Debug\net5.0\BasicProgramming.genruntimeconfig.cache
