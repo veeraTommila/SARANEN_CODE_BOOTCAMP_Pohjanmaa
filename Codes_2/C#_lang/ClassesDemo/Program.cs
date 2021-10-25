@@ -5,21 +5,45 @@ namespace ClassesDemo
     class Program
     {
         static void Main(string[] args)
-        {
+        {/*
             Customer first = new();
             first.Name = "Moe Moa";
             first.Address = "Tikkakuja 3";
             first.ZipCode = "33400";
             first.City = "Lintula";
-            first.Print();
+            first.Print(); //To print the information of the first customer object.
 
             Customer second = new();
             second.Name = "Aino Ankka";
             second.Address = "Nokkatie 6";
             second.ZipCode = "33400";
             second.City = "Lintula";
-            second.Print();
+            second.Print(); //To print the information of the second customer object.
+            */
 
+            Car auto_1 = new();
+            auto_1.Producer = "Toyota";
+            auto_1.Model = "RAV4";
+            auto_1.GearType = "Automatic";
+            auto_1.MotorType = "Hybrid";
+            auto_1.RegNumber = "ZGU-685";
+            auto_1.Speed = 80;
+            auto_1.MaxSpeed = 180;
+            auto_1.Info();
+            auto_1.Drive();
+            auto_1.Break();
+
+            Car auto_2 = new();
+            auto_2.Producer = "Honda";
+            auto_2.Model = "Civic";
+            auto_2.GearType = "Manual";
+            auto_2.MotorType = "Gasoline";
+            auto_2.RegNumber = "BNP-209";
+            auto_2.Speed = 120;
+            auto_2.MaxSpeed = 180;
+            auto_2.Info();
+            auto_2.Drive();
+            auto_2.Break();
 
             /*
             string customerName = "Allu Asiakas";
