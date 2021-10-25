@@ -27,6 +27,14 @@ namespace ClassesDemo
             System.Console.WriteLine("You drive home in " + Speed + "km/h.");
         }
 
+        public void GrowSpeed(){
+            if(Speed < 100){
+                //Grows the car's speed to 100 km/h
+                for(Speed = 0; Speed < 100; Speed++){}
+            }
+            System.Console.WriteLine("Your speed is now: " + Speed + "km/h. \n");
+        }
+
         public void Break(){
             Speed = Speed-20;
             System.Console.WriteLine("Break! Your speed is now: " + Speed + "km/h. \n");

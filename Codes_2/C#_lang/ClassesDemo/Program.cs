@@ -31,7 +31,8 @@ namespace ClassesDemo
             auto_1.MaxSpeed = 180;
             auto_1.Info();
             auto_1.Drive();
-            auto_1.Break();
+            //auto_1.Break();
+            auto_1.GrowSpeed();
 
             Car auto_2 = new();
             auto_2.Producer = "Honda";
