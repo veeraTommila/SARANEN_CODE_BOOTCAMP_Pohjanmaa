@@ -31,9 +31,9 @@ namespace ClassesDemo
             auto_1.MaxSpeed = 180;
             auto_1.Info();
             auto_1.Drive();
-            //auto_1.Break();
+            //auto_1.Brake();
             auto_1.GrowSpeed();
-            auto_1.TellGearType();
+            //auto_1.TellGearType();
             
 
             Car auto_2 = new();
@@ -47,7 +47,7 @@ namespace ClassesDemo
             auto_2.Info();
             auto_2.Drive();
             auto_2.Brake();
-            auto_2.TellGearType();
+            //auto_2.TellGearType();
             
 
             /*

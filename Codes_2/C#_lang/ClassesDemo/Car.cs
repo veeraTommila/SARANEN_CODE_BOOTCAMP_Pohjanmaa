@@ -14,19 +14,19 @@ namespace ClassesDemo
         
         //Methods = functionalities. The car objects can do these.
         public void TellGearType(){
-            if(isAutomatic){
-                Console.WriteLine("Automatic");                
+            if(isAutomatic == true){
+                Console.WriteLine("The car is automatic.");                
             }
-            if(!isAutomatic)
+            if(isAutomatic == false)
             {
-                Console.WriteLine("Manual");
+                Console.WriteLine("The car is manual.");
             }
         }
     
         public void Info(){
             Console.WriteLine("Car's producer: " + Producer);
             Console.WriteLine("Car's model: " + Model);
-            Console.WriteLine("Car's gear type: " + isAutomatic);
+            TellGearType();            
             Console.WriteLine("Car's motor type: " + MotorType);
             Console.WriteLine("Car's register number: " + RegNumber);
             Console.WriteLine("The maximum speed: " + MaxSpeed);             
