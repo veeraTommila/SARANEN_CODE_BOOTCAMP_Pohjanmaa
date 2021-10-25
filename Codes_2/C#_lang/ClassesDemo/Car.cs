@@ -4,7 +4,7 @@ namespace ClassesDemo
 {
     class Car{
         //Data = properties. The car objects can have these.
-        public string Producer { get; set; }
+        public string Producer { get; set; } //Get reads a value and Set writes the value to the variable.
         public string Model { get; set; }
         public bool isAutomatic { get; set; }
         public string MotorType { get; set; }
