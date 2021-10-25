@@ -3,24 +3,33 @@ using System;
 namespace ClassesDemo
 {
     class Car{
-        //Data = properties.
+        //Data = properties. The car objects can have these.
         public string Producer { get; set; }
         public string Model { get; set; }
-        public string GearType { get; set; }
+        public bool isAutomatic { get; set; }
         public string MotorType { get; set; }
         public int Speed { get; set; }   
         public int MaxSpeed { get; set; }     
         public string RegNumber { get; set; }
         
-
+        //Methods = functionalities. The car objects can do these.
+        public void TellGearType(){
+            if(isAutomatic){
+                Console.WriteLine("Automatic");                
+            }
+            if(!isAutomatic)
+            {
+                Console.WriteLine("Manual");
+            }
+        }
+    
         public void Info(){
             Console.WriteLine("Car's producer: " + Producer);
             Console.WriteLine("Car's model: " + Model);
-            Console.WriteLine("Car's gear type: " + GearType);
+            Console.WriteLine("Car's gear type: " + isAutomatic);
             Console.WriteLine("Car's motor type: " + MotorType);
             Console.WriteLine("Car's register number: " + RegNumber);
-            Console.WriteLine("The maximum speed: " + MaxSpeed);
-            //Console.WriteLine("Car's speed: " + Speed); 
+            Console.WriteLine("The maximum speed: " + MaxSpeed);             
         }
 
         public void Drive(){
@@ -29,15 +38,17 @@ namespace ClassesDemo
 
         public void GrowSpeed(){
             if(Speed < 100){
-                //Grows the car's speed to 100 km/h
+                //Grows the car's speed to 100 km/h.
                 for(Speed = 0; Speed < 100; Speed++){}
             }
             System.Console.WriteLine("Your speed is now: " + Speed + "km/h. \n");
         }
 
-        public void Break(){
-            Speed = Speed-20;
+        public void Brake(){
+            Speed -= 20;
             System.Console.WriteLine("Break! Your speed is now: " + Speed + "km/h. \n");
         }
+
+        
     }    
 }

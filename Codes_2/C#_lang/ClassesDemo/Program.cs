@@ -24,7 +24,7 @@ namespace ClassesDemo
             Car auto_1 = new();
             auto_1.Producer = "Toyota";
             auto_1.Model = "RAV4";
-            auto_1.GearType = "Automatic";
+            auto_1.isAutomatic = true;
             auto_1.MotorType = "Hybrid";
             auto_1.RegNumber = "ZGU-685";
             auto_1.Speed = 80;
@@ -33,18 +33,22 @@ namespace ClassesDemo
             auto_1.Drive();
             //auto_1.Break();
             auto_1.GrowSpeed();
+            auto_1.TellGearType();
+            
 
             Car auto_2 = new();
             auto_2.Producer = "Honda";
             auto_2.Model = "Civic";
-            auto_2.GearType = "Manual";
+            auto_2.isAutomatic = false;
             auto_2.MotorType = "Gasoline";
             auto_2.RegNumber = "BNP-209";
             auto_2.Speed = 120;
             auto_2.MaxSpeed = 180;
             auto_2.Info();
             auto_2.Drive();
-            auto_2.Break();
+            auto_2.Brake();
+            auto_2.TellGearType();
+            
 
             /*
             string customerName = "Allu Asiakas";
