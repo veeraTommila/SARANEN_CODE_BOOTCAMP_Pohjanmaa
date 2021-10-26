@@ -7,6 +7,7 @@ namespace ClassesDemo
         public string Producer { get; set; } //Get reads a value and Set writes the value to the variable.
         public string Model { get; set; }
         public bool isAutomatic { get; set; }
+        public bool EngineGoing { get; set; }
         public string MotorType { get; set; }
         public int Speed { get; set; }   
         public int MaxSpeed { get; set; }     
@@ -30,6 +31,18 @@ namespace ClassesDemo
             Console.WriteLine("Car's motor type: " + MotorType);
             Console.WriteLine("Car's register number: " + RegNumber);
             Console.WriteLine("The maximum speed: " + MaxSpeed);             
+        }
+
+        public void StartEngine(){
+            if(EngineGoing == true){
+                System.Console.WriteLine("Started the egine.");                
+            }            
+        }
+
+        public void StopEngine(){
+            if(EngineGoing == false){
+                System.Console.WriteLine("Stopped the engine.");                
+            } 
         }
 
         public void Drive(){
