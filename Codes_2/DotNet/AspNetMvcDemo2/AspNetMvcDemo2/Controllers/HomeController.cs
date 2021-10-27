@@ -23,12 +23,37 @@ namespace AspNetMvcDemo2.Controllers
             return "Hello everyone";
         }
 
+        //Reads lines of Number.txt and sum the numbers. The text file is in
+        //sub folder called FileSum.
+        public IActionResult FileSum()
+        {
+            string filename = "D:\\Tiedostot\\SARANEN_CODE_BOOTCAMP_Pohjanmaa\\Codes_2\\DotNet\\Numbers.txt";
+            string[] lines = System.IO.File.ReadAllLines(filename);
+
+            int sum = 0;
+            foreach (string line in lines)
+            {
+                int value = int.Parse(line);
+                sum += value; //sum = sum + value.
+            }
+
+            ViewBag.SourceOfData = filename;
+            ViewBag.SourceOfData = filename;
+
+            return View();
+        }
+
+        
         public IActionResult Index()
         {
             return View();
         }
-
+         
         public IActionResult SecondPage()
+        {
+            return View();
+        }
+        public IActionResult Summa()
         {
             return View();
         }
