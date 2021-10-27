@@ -38,7 +38,7 @@ namespace AspNetMvcDemo2.Controllers
             }
 
             ViewBag.SourceOfData = filename;
-            ViewBag.SourceOfData = filename;
+            ViewBag.CalculatedSum = sum;
 
             return View();
         }
