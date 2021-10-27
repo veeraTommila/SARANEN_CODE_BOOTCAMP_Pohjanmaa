@@ -356,3 +356,4 @@ D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\AspNetMvcDemo2\AspNe
 D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\AspNetMvcDemo2\AspNetMvcDemo2\obj\Debug\net5.0\AspNetMvcDemo2.pdb
 D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\AspNetMvcDemo2\AspNetMvcDemo2\obj\Debug\net5.0\AspNetMvcDemo2.genruntimeconfig.cache
 D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\AspNetMvcDemo2\AspNetMvcDemo2\obj\Debug\net5.0\Razor\Views\Home\SecondPage.cshtml.g.cs
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\AspNetMvcDemo2\AspNetMvcDemo2\obj\Debug\net5.0\Razor\Views\Home\Sum.cshtml.g.cs

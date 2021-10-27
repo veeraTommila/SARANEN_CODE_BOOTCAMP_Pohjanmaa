@@ -13,7 +13,7 @@ namespace FileSum
             foreach (string line in lines)
             {
                 int value = int.Parse(line);
-                sum += value;
+                sum += value; //sum = sum + value.
             }
             /*
             for (int index = 0; index < lines.Lenght; index ++)
