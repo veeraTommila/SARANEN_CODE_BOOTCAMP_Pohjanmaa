@@ -7,6 +7,8 @@ namespace FileSum
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\"Haloo!\"");
+            Console.WriteLine("'Haloo!'\n");
             string filename = "D:\\Tiedostot\\SARANEN_CODE_BOOTCAMP_Pohjanmaa\\Codes_2\\DotNet\\Numbers.txt";
             string[] lines = File.ReadAllLines(filename);
             
@@ -19,7 +21,7 @@ namespace FileSum
                 {
                     int value = int.Parse(line);
                     sum += value;
-                    Console.WriteLine(line);
+                    Console.WriteLine("The line: "+line);
                 }
                 catch 
                 {                    
