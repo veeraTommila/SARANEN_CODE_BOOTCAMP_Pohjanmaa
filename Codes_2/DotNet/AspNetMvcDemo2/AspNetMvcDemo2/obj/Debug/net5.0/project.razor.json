@@ -15644,6 +15644,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Tiedostot\\SARANEN_CODE_BOOTCAMP_Pohjanmaa\\Codes_2\\DotNet\\AspNetMvcDemo2\\AspNetMvcDemo2\\Views\\Home\\Sum.cshtml",
+      "TargetPath": "Views\\Home\\Sum.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Tiedostot\\SARANEN_CODE_BOOTCAMP_Pohjanmaa\\Codes_2\\DotNet\\AspNetMvcDemo2\\AspNetMvcDemo2\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"

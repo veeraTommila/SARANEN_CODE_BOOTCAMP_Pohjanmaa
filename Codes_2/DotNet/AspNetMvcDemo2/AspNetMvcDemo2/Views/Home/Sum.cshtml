@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Visual Studio.</h1>
+    <p>Sum number:</a>.</p> 
+    <button type="button" class="btn btn-primary">Push here.</button>
+</div>
+@{
+    int sum = 0;
+    foreach (string line in System.IO.File.ReadLines(@"D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Number.txt"))
+    {
+        sum += int.Parse(line);
+    }
+}
+<p>Sum is:</p>
