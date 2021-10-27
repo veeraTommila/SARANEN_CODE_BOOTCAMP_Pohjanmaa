@@ -55,6 +55,15 @@ namespace AspNetMvcDemo2.Controllers
         }
         public IActionResult Summa()
         {
+            /*int sum = 0;
+            int add;
+            foreach (string line in System.IO.File.Readlines(@))
+            {
+                if (int.TryParse(line, out add))
+                {
+                    sum += add;
+                }
+            }*/
             return View();
         }
         public IActionResult Privacy()
