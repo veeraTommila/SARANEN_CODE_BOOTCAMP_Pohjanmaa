@@ -9,7 +9,7 @@ namespace DateConsoleApp
             /*
             Ask the users for two dates. Then calculate the difference of these dates
             in both days and hours.
-            */
+            
 
             // To read the dates from the user.
             //DateTime date1 = ReadDateFromUser("Give me the first date: ");
@@ -23,17 +23,45 @@ namespace DateConsoleApp
             dateValue = Console.ReadLine();
             DateTime date2 = DateTime.Parse(dateValue);
 
-            /*int aa = 120;
+            int aa = 120;
             int bee = 45;
             int difference = aa - bee;
-            Dates are related to numbers.*/
+            Dates are related to numbers.
 
             // Date time calculations, substractions. Overloading minus operator.
             TimeSpan difference = date2 - date1;
             Console.WriteLine("Difference in days: " + difference.TotalDays);
             Console.WriteLine("Difference in hours: " + difference.TotalHours);
-            
-            private static DateTime
+            */
+            // read the dates from the user
+            DateTime date1 = ReadDateFromUser("Enter the first date:");
+            DateTime date2 = ReadDateFromUser("Enter the second date:");
+
+            // date calculations
+            TimeSpan difference = date2 - date1;
+            Console.WriteLine("Difference in days: " + difference.TotalDays);
+            Console.WriteLine("Difference in hours: " + difference.TotalHours);
+        }
+        private static DateTime ReadDateFromUser(string prompt)
+        {
+            while (true)
+            {
+                Console.WriteLine(prompt);
+                string value = Console.ReadLine();
+                
+                // To check weather the date is correct or not.
+                try
+                {
+                    DateTime date = DateTime.Parse(value);
+                    return date;
+                }
+                catch
+                {
+                    //  For example 31.13.2021 is not a correct date.
+
+                    Console.WriteLine("The date entered was invalid. Please try again.");
+                }
+            }
         }
     }
 }
