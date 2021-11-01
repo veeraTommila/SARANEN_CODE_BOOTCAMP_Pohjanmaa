@@ -17,13 +17,14 @@ namespace FileSum
             foreach (string line in lines)
             {
                 //Exception handling. Accept invalid data.
+                //Catch any errors of the code.
                 try
                 {
                     int value = int.Parse(line);
                     sum += value;
                     Console.WriteLine("The line: "+line);
                 }
-                catch 
+                catch //If nothing success.
                 {                    
                     Console.WriteLine("Cannot process the line \"" + currentLine + 
                     " with value \"" + line + "\", not a valid number.");
