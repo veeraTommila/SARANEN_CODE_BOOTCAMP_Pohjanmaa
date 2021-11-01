@@ -1,0 +1,16 @@
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\bin\Debug\net5.0\Dates.exe
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\bin\Debug\net5.0\Dates.deps.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\bin\Debug\net5.0\Dates.runtimeconfig.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\bin\Debug\net5.0\Dates.runtimeconfig.dev.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\bin\Debug\net5.0\Dates.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\bin\Debug\net5.0\ref\Dates.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\bin\Debug\net5.0\Dates.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.csproj.AssemblyReference.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.AssemblyInfoInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.AssemblyInfo.cs
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.csproj.CoreCompileInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\ref\Dates.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\Dates\obj\Debug\net5.0\Dates.genruntimeconfig.cache

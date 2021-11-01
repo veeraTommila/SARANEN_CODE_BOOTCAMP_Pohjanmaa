@@ -1,0 +1,16 @@
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\bin\Debug\net5.0\DateConsoleApp.exe
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\bin\Debug\net5.0\DateConsoleApp.deps.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\bin\Debug\net5.0\DateConsoleApp.runtimeconfig.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\bin\Debug\net5.0\DateConsoleApp.runtimeconfig.dev.json
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\bin\Debug\net5.0\DateConsoleApp.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\bin\Debug\net5.0\ref\DateConsoleApp.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\bin\Debug\net5.0\DateConsoleApp.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.csproj.AssemblyReference.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.AssemblyInfoInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.AssemblyInfo.cs
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.csproj.CoreCompileInputs.cache
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\ref\DateConsoleApp.dll
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.pdb
+D:\Tiedostot\SARANEN_CODE_BOOTCAMP_Pohjanmaa\Codes_2\DotNet\DateConsoleApp\DateConsoleApp\obj\Debug\net5.0\DateConsoleApp.genruntimeconfig.cache
