@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace DateConsoleApp
 {
@@ -37,10 +38,28 @@ namespace DateConsoleApp
             DateTime date1 = ReadDateFromUser("Enter the first date:");
             DateTime date2 = ReadDateFromUser("Enter the second date:");
 
+            // display the values entered
+            CultureInfo enUS = new("en-US"); // USA format.
+            CultureInfo fr = new("fr"); // French format.
+
+            CultureInfo fiFi = new("fi-FI");
+
+            Console.WriteLine("First date (default format): " + date1);
+            Console.WriteLine("Second date (default format): " + date2);
+            Console.WriteLine("First date (en-US): " + date1.ToString(enUS)); //Convert any value to a string. Passes the parameter enUS.
+            Console.WriteLine("First date (en-US): " + date1.ToString(fr));
+            Console.WriteLine("First date (fi-FI): " + date1.ToString(fiFi));
+            Console.WriteLine("First date (custom): " + date1.ToString("yyyy$MM$dd"));
+
+            int numero = 1234;
+            string arvo = numero.ToString(); //Converts the given value to a string.
+
             // date calculations
             TimeSpan difference = date2 - date1;
-            Console.WriteLine("Difference in days: " + difference.TotalDays);
-            Console.WriteLine("Difference in hours: " + difference.TotalHours);
+            Console.WriteLine("Difference in days: " + difference.Days);
+            Console.WriteLine("Difference in hours: " + difference.Hours);
+            Console.WriteLine("Difference in total days: " + difference.TotalDays);
+            Console.WriteLine("Difference in total hours: " + difference.TotalHours);
         }
         private static DateTime ReadDateFromUser(string prompt)
         {
