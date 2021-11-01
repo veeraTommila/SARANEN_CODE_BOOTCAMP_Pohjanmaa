@@ -42,7 +42,7 @@ namespace DateConsoleApp
             CultureInfo enUS = new("en-US"); // USA format.
             CultureInfo fr = new("fr"); // French format.
 
-            CultureInfo fiFi = new("fi-FI");
+            CultureInfo fiFi = new("fi-FI"); //Finnish format.
 
             Console.WriteLine("First date (default format): " + date1);
             Console.WriteLine("Second date (default format): " + date2);
@@ -58,8 +58,8 @@ namespace DateConsoleApp
             TimeSpan difference = date2 - date1;
             Console.WriteLine("Difference in days: " + difference.Days);
             Console.WriteLine("Difference in hours: " + difference.Hours);
-            Console.WriteLine("Difference in total days: " + difference.TotalDays);
-            Console.WriteLine("Difference in total hours: " + difference.TotalHours);
+            Console.WriteLine("Difference in total days: " + difference.TotalDays); //Shows the difference in actual days.
+            Console.WriteLine("Difference in total hours: " + difference.TotalHours); //Shows the difference in actual hours.
         }
         private static DateTime ReadDateFromUser(string prompt)
         {
