@@ -27,4 +27,10 @@ SELECT COUNT(CustomerID)
 FROM Customers
 
 --Practice 2.2
-SELECT SUM(UnitePrice*UnitsInStock) AS 'VA
+SELECT SUM(UnitPrice*UnitsInStock) AS 'Value in $'
+FROM Products
+
+--Practice 2.3. Why squary brackets? The Order Details table has a space in its name.
+SELECT SUM(UnitPrice*Quantity) AS 'Value in $'
+FROM [Order Details]
+WHERE ProductID = 14
