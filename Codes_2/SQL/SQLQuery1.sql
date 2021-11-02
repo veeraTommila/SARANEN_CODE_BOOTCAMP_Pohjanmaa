@@ -34,3 +34,22 @@ FROM Products
 SELECT SUM(UnitPrice*Quantity) AS 'Value in $'
 FROM [Order Details]
 WHERE ProductID = 14
+
+--With discount.
+SELECT SUM((UnitPrice*(1-Discount))*Quantity) AS 'Value in $'
+FROM [Order Details]
+WHERE ProductID = 14
+
+--With discount and 'Longlife Tofu'.
+SELECT SUM((UnitPrice*(1-Discount))*Quantity) AS 'Value in $'
+FROM [Order Details]
+WHERE ProductID = 14 OR ProductID = 74
+
+--Select every product that contain the word tofu.
+SELECT SUM((UnitPrice*(1-Discount))*Quantity) AS 'Value in $'
+FROM [Order Details]
+WHERE ProductID IN( 	
+	SELECT ProductID
+	FROM Products
+	WHERE ProductName LIKE '%Tofu'
+)
