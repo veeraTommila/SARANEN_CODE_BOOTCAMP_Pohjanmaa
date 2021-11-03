@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">My database demo!</h1>
+    <p>Some tables will be displayed. It is a table of Orders in "Orders" tab.</p>
+</div>
+<p>The number of customers: @ViewBag.AllCustomers.Count</p>
+
+@foreach (MVC_Asp_SQL_demo_2.Models.Customer customer in ViewBag.AllCustomers)
+{
+    <p>@customer.CustomerId - @customer.CompanyName</p>
+}

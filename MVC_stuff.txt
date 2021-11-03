@@ -1,0 +1,12 @@
+1. Create a new folder
+2. Go to the previously created new folder
+3. Run "dotnet new mvc" in that folder
+4. Install packages:
+A. Microsoft.EntityFrameworkCore
+   - dotnet add package Microsoft.EntityFrameworkCore
+B. Microsoft.EntityFrameworkCore.SqlServer
+   - dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+C. Microsoft.EntityFrameworkCore.Tools
+   - dotnet add package Microsoft.EntityFrameworkCore.Tools
+4. Scaffold the DbContext:
+- dotnet ef dbcontext scaffold "Server=localhost\SQLEXPRESS2021;Database=Northwind;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Models

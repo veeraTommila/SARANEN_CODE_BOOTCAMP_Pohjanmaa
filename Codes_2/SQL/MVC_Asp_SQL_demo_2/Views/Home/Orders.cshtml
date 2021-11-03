@@ -1,0 +1,28 @@
+@{
+    ViewData["Title"] = "Northwind Ordres";
+}
+<h1>@ViewData["Title"]</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Order Id</th>
+            <th>Order Date</th>
+            <th>Ship To</th>
+            <th>City</th>
+            <th>Country</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (MVC_Asp_SQL_demo_2.Models.Order order in ViewBag.AllOrders)
+        {
+        <tr>
+            <td>@order.OrderId</td>
+            <td>@order.OrderDate.Value.ToString("d.M.yyyy")</td>
+            <td>@order.ShipName</td>
+            <td>@order.ShipCity</td>
+            <td>@order.ShipCountry</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
