@@ -13,7 +13,7 @@ import LifeCycleReact from './LifyCycleReact';
 //To boot up the application and to show the stuff on a browser screen.
 ReactDOM.render( //JavaScript.
   <React.StrictMode>   {/*This is XML.*/} 
-      <LifeCycleReact />    
+      <LifeCycleReact />    {/**Referring the component LifeCycleReact.*/}
   </React.StrictMode>,
   document.getElementById('root')//JavaScript again.
 );
