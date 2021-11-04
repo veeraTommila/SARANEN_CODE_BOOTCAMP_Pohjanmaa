@@ -3,11 +3,15 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import MyComponent from './MyComponent';
+import MySecondComponent from './MySecondComponent';
 
 //To boot up the application.
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode>    
     <App />
+    <MyComponent />    
+    <MySecondComponent />
   </React.StrictMode>,
   document.getElementById('root')
 );
