@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+//To boot up the application.
 ReactDOM.render(
   <React.StrictMode>
     <App />
