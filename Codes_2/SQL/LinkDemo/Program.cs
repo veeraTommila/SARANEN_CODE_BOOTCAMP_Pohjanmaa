@@ -27,7 +27,7 @@ namespace LinkDemo
                                   where tilaus > 5
                                   orderby tilaus
                                   select tilaus);
-            foreach (int numero2 in numerot2)
+            foreach (int numero2 in largerthanFive)
             {
                 Console.WriteLine("Numero nyt: " + numero2);
             }

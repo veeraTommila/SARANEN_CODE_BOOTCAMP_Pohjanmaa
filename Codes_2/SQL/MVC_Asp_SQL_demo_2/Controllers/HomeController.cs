@@ -42,7 +42,7 @@ namespace MVC_Asp_SQL_demo_2.Controllers
             return View();
         }
 
-        public IActionResult Orders() //This is for the Orders.cshtml.
+        public IActionResult Orders(int id) //This is for the Orders.cshtml.
         {
             NorthwindContext context = new();
             List<Order> allOrders = context.Orders.ToList();
