@@ -5,13 +5,16 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import MyComponent from './MyComponent';
 import MySecondComponent from './MySecondComponent';
+import MyClassComponent from './MyClassComponent';
 
-//To boot up the application.
+
+//To boot up the application and to show the stuff on a browser screen.
 ReactDOM.render(
   <React.StrictMode>    
     <App />
-    <MyComponent />    
-    <MySecondComponent />
+    <MyComponent />
+    <MySecondComponent />    
+    <MyClassComponent />
   </React.StrictMode>,
   document.getElementById('root')
 );
