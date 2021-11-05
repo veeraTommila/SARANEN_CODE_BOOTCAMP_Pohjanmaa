@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <title>CSS Media Query Demo.</title>
+<!--Different devices have different screen sizes, directions and resolutions.-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<body>
+    <style>
+        body {
+            background-color: rgb(252, 43, 6);
+        }
+
+        /*The background colour will change from light blue to red when the
+            minimum screen width is 600 pixels.*/
+        @media screen and (min-width: 600px) {
+            body {
+                background-color: rgb(0, 119, 255);
+            }
+        }
+    </style>
+    <h1>CSS Media Query Demo</h1>
+    <p>This is a paragraph. One uses C#-code or Bootstrap to change the background colour according to the screen's width. This page uses flexibility.</p>
+</body>
+
+</html>
