@@ -24,7 +24,7 @@ class CustomerList extends React.Component {
     myButtonClickHandler() {
         console.log("Button was clicked!");
         // alert("Hello from React!");
-
+//Write to the database.
         const data = { username: 'Tom Tester', shoenumber: 42 };
         fetch('https://localhost:44378/api/hello', {
             method: 'POST',
