@@ -11,7 +11,7 @@ class CustomerList extends React.Component {
     componentDidMount() {
         console.log("In CustomerList.componentDidMount");
 
-        fetch('https://localhost:44378/api/customers')
+        fetch('https://localhost:44391/api/customers')
             .then(response => response.json())
             .then(json => {
                 console.log(json);
